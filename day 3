@@ -1,0 +1,8 @@
+# include <stdio.h>
+int main (){
+int l=78;
+int b=67;
+printf("area of recatngle : %d",l*b);
+return 0;
+
+}
