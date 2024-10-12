@@ -1,0 +1,6 @@
+#include<std.h>
+int main (){
+printf("kajol kumari")
+return 0;}
+
+
